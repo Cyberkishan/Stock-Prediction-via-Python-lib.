@@ -1,0 +1,4 @@
+git clone https://https://github.com/Cyberkishan/Stock-Prediction-via-Python-lib./new/main
+cd vedanta-stock-predictor
+pip install -r requirements.txt
+streamlit run app.py
