@@ -1,0 +1,8 @@
+------Technologies Used-----
+Python (pandas, numpy, matplotlib, seaborn, scikit-learn, yfinance)
+
+Streamlit for UI
+
+RandomForestRegressor for ML
+
+Boxplot analysis for comparative insights
