@@ -1,0 +1,16 @@
+-----Features-----
+Fetches 10 years of historical data from Yahoo Finance
+
+Feature engineering with moving averages, daily returns, and volatility
+
+Random Forest model training and prediction
+
+Mean Squared Error evaluation
+
+Line chart comparing predicted vs actual stock prices
+
+Feature importance visualized with horizontal bar charts
+
+Model reliability visualized using interactive box plots
+
+Styled using Streamlit with inline markdown explanations
