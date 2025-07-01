@@ -5,7 +5,7 @@ import yfinance as yf
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
-import streamlit as st
+import streamlit as st 
 
 # Cache data loading
 @st.cache_data
